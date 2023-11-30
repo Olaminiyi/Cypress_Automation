@@ -1,0 +1,1 @@
+knightBridge_location = '#comp-lnn219lo2 > .font_8'

@@ -1,0 +1,1 @@
+coventGarden = '#comp-lmnwd1wl2 > :nth-child(1)'
